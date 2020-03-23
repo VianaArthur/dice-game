@@ -3,4 +3,4 @@
 
 - Click on Play! button to roll dices and get the result Winner.
 
-- Can be accessed in https://vianaarthur.github.io/dice-game-web/
+- Can be accessed in https://vianaarthur.github.io/dice-game/
