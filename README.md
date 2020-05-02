@@ -1,6 +1,7 @@
-# dice-game-web
-- A simple dice game using HTML, CSS and JS
+# dice-game
 
-- Click on Play! button to roll dices and get the result Winner.
+- A simple dice game using `HTML`, `CSS` and `JS`.
 
-- Can be accessed in https://vianaarthur.github.io/dice-game/
+- Click on `Play!` button to roll dices and get the result Winner.
+
+- Can be accessed at [Dice Game](https://vianaarthur.github.io/dice-game/).
